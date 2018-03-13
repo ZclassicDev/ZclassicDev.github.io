@@ -1,7 +1,7 @@
 # [ZclassicDev.github.io](https://ZclassicDev.github.io)
 We are the [Zclassic Community Development Team](https://github.com/ZclassicDev).
 
-We are the organic continuation of the [vibrant Zclassic community](https://twitter.com/ZclassicDev) that launched Bitcoin Private into being.
+We are the organic continuation of the [vibrant Zclassic Community](https://twitter.com/ZclassicDev) that launched Bitcoin Private into being.
 
 
 ## Zclassic community's continuity plan
@@ -23,13 +23,13 @@ We are the organic continuation of the [vibrant Zclassic community](https://twit
     - BarterDEX is an especially attractive partner, not only because of its decentralized model but also because its core Komodo platform is a fellow Zcash-fork at its core, integration with a user-friendly interface on a secure and private platform would be very interesting, to say the least
     - if partnership and collaboration with BarterDEX developers is successful, it could pave the way to a possible listing of Bitcoin Private there, as well, this is good for the wider ecosystem because centralized exchanges are, well, centralized and closed off to public scrutiny, yet subject to state regulation, therefore: uncensorable, anonymous, decentralized exchanges using free software, open protocols and open source development is a major improvement
 09. other frequently requested features or proposals from the community are:
-            1. Master Nodes System
-            2. Staking System
-            3. additional incentive for miners/mining pools
-            4. TOR/i2p integration/obfuscation
-            5. setting up Zclassic Community Nodes to replace those marked for decommissioning
-            6. more ElectrumX Servers for Electrum light-wallets
-    - these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable
+    1. Master Nodes System
+    2. Staking System
+    3. additional incentive for miners/mining pools
+    4. TOR/i2p integration/obfuscation
+    5. setting up Zclassic Community Nodes to replace those marked for decommissioning
+    6. more ElectrumX Servers for Electrum light-wallets
+    - **these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable**
 10. an initial Board of Zclassic Volunteers will be setup from supporters, developers, miners, mining pool operators, other stakeholders, and at least one representative from the Bitcoin Private Team, preferably a previous maintainer of or contributor to Zclassic
 11. a system of governance on how to maintain Zclassic code and network will be discussed by the initial Board of Zclassic Volunteers and an appropriate jurisdiction or territory will be discussed where such a future legal entity may be setup in the best interest of the Zclassic community
 12. funding through donation of hashpower on fund.zclassic.org is feasible (for example, 30% of mining rewards?) an arrangement will be discussed with different mining pools on setting aside a portion of their pool fees to sponsor the maintenance and development of Zclassic code and its network, operators of cooperating mining pools may be invited to join the Board of Zclassic Volunteers or any successor organization it may decide to form afterwards
