@@ -5,8 +5,7 @@ We are the organic continuation of the [vibrant Zclassic Community](https://twit
 
 
 ## Zclassic community's continuity plan
-(this is originally partly based on this list: https://workflowy.com/s/IBvO.xDLlYhUKoy)
-
+(this is originally partly based on this list: https://workflowy.com/s/IBvO.xDLlYhUKoy)<br/><br/>
 01. as the first and foremost fork of Zcash and the most immaculate version of zk-SNARKs with just the Founders' Tax removed from its code, Zclassic has great historical, technological, and philosophical value in the world of cryptocurrency, if not in the world itself
 02. alternate and continuing developers of Zclassic code have been testing an updated version at par with the core code of Zcash 1.0.14 full node client and experimenting with a user-friendly alternate ZCL wallet based on Electron wrapper as a front-end, both of which we encourage users and collaborators to try and test:
     - **Zclassic** Full Node version **1.0.14**: https://github.com/ZclassicDev/zclassic/releases
@@ -29,8 +28,9 @@ We are the organic continuation of the [vibrant Zclassic Community](https://twit
     4. TOR/i2p integration/obfuscation
     5. setting up Zclassic Community Nodes to replace those marked for decommissioning
     6. more ElectrumX Servers for Electrum light-wallets
-    - **these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable**
-10. an initial Board of Zclassic Volunteers will be setup from supporters, developers, miners, mining pool operators, other stakeholders, and at least one representative from the Bitcoin Private Team, preferably a previous maintainer of or contributor to Zclassic
+  - **these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable**
+10. an initial Board of Zclassic Volunteers will be setup from supporters, developers, miners, mining pool operators, other stakeholders, and at least one representative invited from the Bitcoin Private Team, preferably a previous maintainer of or contributor to Zclassic
 11. a system of governance on how to maintain Zclassic code and network will be discussed by the initial Board of Zclassic Volunteers and an appropriate jurisdiction or territory will be discussed where such a future legal entity may be setup in the best interest of the Zclassic community
 12. funding through donation of hashpower on fund.zclassic.org is feasible (for example, 30% of mining rewards?) an arrangement will be discussed with different mining pools on setting aside a portion of their pool fees to sponsor the maintenance and development of Zclassic code and its network, operators of cooperating mining pools may be invited to join the Board of Zclassic Volunteers or any successor organization it may decide to form afterwards
 ### if you want to join us in bearing the torch of Zclassic forward,<br/> or if you have any suggestion, open an [issue](https://github.com/ZclassicDev/ZclassicDev.github.io/issues) or send a [pull request](https://github.com/ZclassicDev/ZclassicDev.github.io/pulls),<br/> or email us: Zclassic.ORG@gmail.com
+#### or join our [Zclassic Community Edition Discord Channel](https://discord.gg/NRdczWC)
