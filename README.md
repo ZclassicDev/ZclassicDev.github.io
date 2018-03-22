@@ -17,18 +17,18 @@ We are the organic continuation of the [vibrant Zclassic Community](https://twit
 07. in this area lies a role yet still for Zclassic in future Bitcoin Private development:
     - any consensus-changing major network upgrade parallel or analogue to Zcash upgrades can be tested on Zclassic first before proper implementation in Bitcoin Private (should developers decide to adopt it), based on a well-founded premise that Zclassic remains the closest fork to Zcash, and we intend to maintain it that way; it is Zclassic's greatest strength and viability
     - we invite not only the Bitcoin Private Team but potentially other Zcash-forks as well to look at Zclassic development as a principled and stable staging ground for major upgrades parallel to Zcash itself
-    - zk-STARKs are coming, and Zclassic is the North, successful preparation and testing on Zclassic will be beneficial to the entire ecosystem of the Z-fork family
+    - zk-STARKs are coming, and Zclassic is the North, successful preparation and testing on Zclassic will be beneficial to the entire ecosystem of the Z-fork family <br/>
 08. aside from trying to get Zclassic listed on more centralized exchanges, we welcome the possibility of collaborating with decentralized exchanges like BarterDEX because on-boarding new users requires Zclassic to  become easier to acquire online on more platforms
     - BarterDEX is an especially attractive partner, not only because of its decentralized model but also because its core Komodo platform is a fellow Zcash-fork at its core, integration with a user-friendly interface on a secure and private platform would be very interesting, to say the least
-    - if partnership and collaboration with BarterDEX developers is successful, it could pave the way to a possible listing of Bitcoin Private there, as well, this is good for the wider ecosystem because centralized exchanges are, well, centralized and closed off to public scrutiny, yet subject to state regulation, therefore: uncensorable, anonymous, decentralized exchanges using free software, open protocols and open source development is a major improvement
+    - if partnership and collaboration with BarterDEX developers is successful, it could pave the way to a possible listing of Bitcoin Private there, as well, this is good for the wider ecosystem because centralized exchanges are, well, centralized and closed off to public scrutiny, yet subject to state regulation, therefore: uncensorable, anonymous, decentralized exchanges using free software, open protocols and open source development is a major improvement <br/>
 09. other frequently requested features or proposals from the community are:
-    1. Master Nodes System
-    2. Staking System
+    1. [WiP] setting up Zclassic Community Nodes to replace those marked for decommissioning 
+    2. [WiP] more ElectrumX Servers for Electrum light-wallets 
     3. additional incentive for miners/mining pools
     4. TOR/i2p integration/obfuscation
-    5. setting up Zclassic Community Nodes to replace those marked for decommissioning
-    6. more ElectrumX Servers for Electrum light-wallets
-  - **these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable**
+    5. Master Nodes System
+    6. Staking System <br/>
+- **these requests will be considered and discussed further as more details come from their proponents and will be assesed if viable:** in support of Work-in-Progress #1, we have spawned Amazon EC2 instances of Zclassic Community Full Nodes, a public custom AMI (Amazon Machine Image) will be published shortly to provide the community with ways to easily setup their own full nodes, a similar approach will be used to setup Zclassic Community ElectrumX Servers on AWS <br/> <br/>**new Zclassic Community Fleet of Full Nodes now online:** https://share.geckoboard.com/dashboards/VLSIPPHPUNOYUAJW ![the road so far!](https://github.com/ZclassicDev/ZclassicDev.github.io/raw/master/zclaws.png "new Zclassic Community Fleet of Full Nodes now online via AWS")<br/>
 10. an initial Board of Zclassic Volunteers will be setup from supporters, developers, miners, mining pool operators, other stakeholders, and at least one representative invited from the Bitcoin Private Team, preferably a previous maintainer of or contributor to Zclassic
 11. a system of governance on how to maintain Zclassic code and network will be discussed by the initial Board of Zclassic Volunteers and an appropriate jurisdiction or territory will be discussed where such a future legal entity may be setup in the best interest of the Zclassic community
 12. funding through donation of hashpower on fund.zclassic.org is feasible (for example, 30% of mining rewards?) an arrangement will be discussed with different mining pools on setting aside a portion of their pool fees to sponsor the maintenance and development of Zclassic code and its network, operators of cooperating mining pools may be invited to join the Board of Zclassic Volunteers or any successor organization it may decide to form afterwards
